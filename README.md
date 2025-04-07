@@ -1,6 +1,7 @@
 # Event Ticketing System Frontend
 
 A responsive, modern web application that integrates with the Event Ticketing API to display events and sales analytics.
+*For backend, please refer to the bottom of this MD file
 
 ## Features
 
@@ -119,3 +120,8 @@ The API integration is handled by the API client in `src/lib/api.ts`, which uses
 - **Axios** - HTTP client for API requests
 - **date-fns** - Date manipulation library
 - **React Icons** - Icon library
+
+
+# Event Ticketing System Backend
+- Enter EventTicketingSystem directory and follow instructions on the README to start the api server.
+
