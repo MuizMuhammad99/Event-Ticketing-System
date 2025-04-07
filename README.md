@@ -1,7 +1,7 @@
 # Event Ticketing System Frontend
 
 A responsive, modern web application that integrates with the Event Ticketing API to display events and sales analytics.
-*For backend, please refer to the bottom of this MD file
+- For backend, please refer to the bottom of this MD file
 
 ## Features
 
