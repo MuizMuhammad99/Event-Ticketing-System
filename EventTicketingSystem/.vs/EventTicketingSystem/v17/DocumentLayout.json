@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\tests\\services\\ticketservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:tests\\services\\ticketservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\tests\\services\\eventservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:tests\\services\\eventservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\services\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:services\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\repositories\\interfaces\\iticketsalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:repositories\\interfaces\\iticketsalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\repositories\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:repositories\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\repositories\\ticketsalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:repositories\\ticketsalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\models\\ticketsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:models\\ticketsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|c:\\users\\muizm\\onedrive\\desktop\\codeassessment\\eventticketingsystem\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AAFCA-11C4-47E2-8E39-DAF4C9C1C8C1}|EventTicketingSystem.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-07T15:56:10.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Tests\\Services\\TicketServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Services\\TicketServiceTests.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Tests\\Services\\TicketServiceTests.cs",
+              "RelativeToolTip": "Tests\\Services\\TicketServiceTests.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwIYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:56:06.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Tests\\Services\\EventServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Services\\EventServiceTests.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Tests\\Services\\EventServiceTests.cs",
+              "RelativeToolTip": "Tests\\Services\\EventServiceTests.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAYwJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:54:58.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITicketservice.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Services\\Interfaces\\ITicketservice.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ITicketservice.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Services\\Interfaces\\ITicketservice.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ITicketservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:54:54.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Services\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEventService.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Services\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:54:34.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Services\\TicketService.cs",
+              "RelativeToolTip": "Services\\TicketService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:54:20.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Services\\EventService.cs",
+              "RelativeToolTip": "Services\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:53:59.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITicketSaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Repositories\\Interfaces\\ITicketSaleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ITicketSaleRepository.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Repositories\\Interfaces\\ITicketSaleRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ITicketSaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:53:29.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Repositories\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Repositories\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:53:08.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketSaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Repositories\\TicketSaleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TicketSaleRepository.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Repositories\\TicketSaleRepository.cs",
+              "RelativeToolTip": "Repositories\\TicketSaleRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:52:11.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "Repositories\\EventRepository.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:51:45.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketSale.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Models\\TicketSale.cs",
+              "RelativeDocumentMoniker": "Models\\TicketSale.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Models\\TicketSale.cs",
+              "RelativeToolTip": "Models\\TicketSale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:51:23.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\muizm\\OneDrive\\Desktop\\CodeAssessment\\EventTicketingSystem\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:51:14.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
